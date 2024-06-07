@@ -3,9 +3,7 @@
 #title {
     margin-left: 585px;
 }
-#game {
-    color: white;
-}
+
 #board {
     position:relative;
     height: 200px;
@@ -23,6 +21,7 @@
     margin-left: 350px;
     border-radius: 10px;
     background: green;
+    color: white;
 }
 
 .card {
